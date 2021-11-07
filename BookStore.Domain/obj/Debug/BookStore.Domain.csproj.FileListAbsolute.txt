@@ -1,0 +1,6 @@
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
